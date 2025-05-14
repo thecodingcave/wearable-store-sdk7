@@ -2,8 +2,8 @@
   "ecs7": true,
   "runtimeVersion": "7",
   "display": {
-    "title": "SDK7 Scene Template",
-    "description": "template scene with SDK7",
+    "title": "interactive-text",
+    "description": "scene with SDK7",
     "navmapThumbnail": "images/scene-thumbnail.png",
     "favicon": "favicon_asset"
   },
@@ -16,7 +16,10 @@
   "tags": [],
   "scene": {
     "parcels": [
-      "0,0"
+      "0,0",
+      "0,1",
+      "1,0",
+      "1,1"
     ],
     "base": "0,0"
   },
